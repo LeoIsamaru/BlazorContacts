@@ -1,6 +1,6 @@
-using BlazorApp1.Components;
+using Contacts.Components;
 
-namespace BlazorApp1;
+namespace Contacts;
 
 public class Program
 {
